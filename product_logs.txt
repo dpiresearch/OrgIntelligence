@@ -1,0 +1,9 @@
+[2024-07-26 10:15:33] [ERROR] Database connection failed: Timeout expired for user 'user_123'.
+[2024-07-26 10:20:01] [WARN] API response time exceeded 2000ms for endpoint /api/v1/export.
+[2024-07-26 10:22:15] [INFO] User 'charlie_d' successfully synced 50 photos.
+[2024-07-26 11:30:45] [ERROR] Unhandled exception: NullReferenceException at ImageProcessor.ApplyFilter. User 'bob_g'.
+[2024-07-26 11:31:00] [INFO] Server reboot sequence initiated.
+[2024-07-26 12:05:10] [ERROR] Export failed for user 'bob_g'. Reason: OutOfMemory. File size: 50MB.
+[2024-07-26 12:10:15] [WARN] Disk space is running low on server node 'prod-server-3'. 95% usage.
+[2024-07-26 13:00:00] [ERROR] Authentication failed for token 'jwt-token-expired-xyz' from IP 192.168.1.10.
+[2024-07-26 14:00:55] [ERROR] Unhandled exception: NullReferenceException at ImageProcessor.ApplyFilter. User 'edward_f'.

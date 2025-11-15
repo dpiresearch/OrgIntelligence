@@ -1,0 +1,31 @@
+User Feedback Summary - Q3 2024 - PhotoSphere App
+
+---
+User: alice_p
+Date: 2024-07-15
+Rating: 4/5
+Feedback: I love the new AI-powered "Magic Edit" feature! It makes cleaning up my photos so easy. However, the app has been a bit slow to load my photo library since the last update. Sometimes it takes up to 10 seconds.
+
+---
+User: bob_g
+Date: 2024-07-18
+Rating: 2/5
+Feedback: The app crashed twice yesterday when I was trying to export a high-resolution photo. I lost my edits both times. This is very frustrating. The export functionality needs to be more stable. I'm on a Pixel 8.
+
+---
+User: charlie_d
+Date: 2024-07-21
+Rating: 5/5
+Feedback: Best photo editor on the market! The cloud sync is seamless and works perfectly between my phone and tablet. Keep up the great work! A feature I'd love to see is support for video editing.
+
+---
+User: diana_k
+Date: 2024-07-22
+Rating: 3/5
+Feedback: The user interface is getting a little cluttered. It was hard to find the crop tool after the redesign. Maybe you could simplify the toolbar? Also, the app drains my battery much faster than before.
+
+---
+User: edward_f
+Date: 2024-07-25
+Rating: 2/5
+Feedback: The "Magic Edit" feature mentioned in the update is nowhere to be found. I've looked everywhere. Is it only for premium subscribers? The app doesn't make this clear at all. Very confusing and poor communication. The app also crashed once when I tried to import a large RAW file.
