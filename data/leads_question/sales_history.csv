@@ -1,0 +1,13 @@
+deal_id,status,lead_source,company_size,industry,deal_value,sales_cycle_days,touchpoints
+1,Won,Referral,250,Tech,55000,42,18
+2,Lost,Web,100,Retail,20000,95,8
+3,Won,Partner,500,Finance,75000,55,25
+4,Won,Web,150,Tech,35000,61,12
+5,Lost,Cold Call,1000,Manufacturing,90000,120,5
+6,Won,Referral,300,Healthcare,62000,38,21
+7,Won,Web,200,Tech,48000,58,15
+8,Lost,Web,50,Retail,15000,75,6
+9,Won,Partner,750,Finance,110000,65,22
+10,Lost,Cold Call,5000,Manufacturing,150000,150,4
+11,Won,Referral,180,Tech,41000,45,19
+12,Won,Web,350,Healthcare,68000,72,16
