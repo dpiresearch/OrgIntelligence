@@ -1,0 +1,10 @@
+[2024-10-21 09:15] EMAIL_OPEN: Stellar Corp (deal_id:104) opened "Proposal Follow-up".
+[2024-10-21 10:30] CALL_LOG: Visionary Tech (deal_id:107). Positive sentiment. Discussed pricing tiers and implementation timeline.
+[2024-10-21 11:00] WEBSITE_VISIT: Innovate Solutions (deal_id:101) visited /pricing page for 5 minutes.
+[2024-10-22 14:00] EMAIL_CLICK: Quantum Dynamics (deal_id:102) clicked link in "Technical Specs" email.
+[2024-10-22 15:22] CALL_LOG: Momentum LLC (deal_id:111). Confirmed verbal approval from department head. Moving to final sign-off.
+[2024-10-22 16:10] EMAIL_OPEN: Data Weavers (deal_id:105) opened "Checking In". No reply.
+[2024-10-23 09:00] CALL_LOG: Infinite Loop Inc (deal_id:113). Quick call to confirm they received the contract. Said it looks good and is with their legal team.
+[2024-10-23 10:45] EMAIL_REPLY: Apex Industries (deal_id:103) replied with minor redlines on the contract. Asking to connect tomorrow.
+[2024-10-23 11:30] CALL_LOG: Pioneer Group (deal_id:112). Answered technical questions, team seemed very engaged and positive.
+[2024-10-23 14:00] WEBSITE_VISIT: Quantum Dynamics (deal_id:102) viewed case study on /integrations page.

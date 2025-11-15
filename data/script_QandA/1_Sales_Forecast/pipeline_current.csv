@@ -1,0 +1,16 @@
+deal_id,company_name,current_stage,age_days,projected_close_date,deal_value,lead_score,next_activity
+101,Innovate Solutions,Negotiation,35,2024-10-25,58000,95,Send Contract
+102,Quantum Dynamics,Proposal Sent,42,2024-10-24,72000,92,Follow-up Call
+103,Apex Industries,Negotiation,55,2024-10-25,115000,88,Legal Review
+104,Stellar Corp,Proposal Sent,28,2024-10-23,45000,85,Follow-up Email
+105,Data Weavers,Proposal Sent,65,2024-10-25,32000,60,Follow-up Call
+106,NextGen Logistics,Qualified,15,2024-11-15,88000,78,Schedule Demo
+107,Visionary Tech,Negotiation,48,2024-10-24,61000,90,Pricing Call
+108,Synergy Systems,Proposal Sent,39,2024-10-25,51000,86,Technical Demo
+109,Global Net,Qualified,25,2024-11-10,95000,75,Discovery Call
+110,Helios Creations,Proposal Sent,72,2024-10-25,25000,55,Follow-up Email
+111,Momentum LLC,Negotiation,41,2024-10-23,67000,91,Final Approvals
+112,Pioneer Group,Proposal Sent,33,2024-10-24,49000,87,Q&A Session
+113,Infinite Loop Inc,Contract Sent,38,2024-10-25,53000,96,Signature
+114,Catalyst Co,Proposal Sent,58,2024-11-05,41000,70,Follow-up Email
+115,Brightstar Co,Qualified,12,2024-11-20,76000,81,Schedule Demo

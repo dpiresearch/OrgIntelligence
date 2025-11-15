@@ -1,0 +1,12 @@
+Source: App Store Review
+User: CreativePro
+Rating: 3/5
+Comment: "The app is powerful but exporting large projects is incredibly slow and often fails. A more robust export system with format options like PDF and PNG is desperately needed."
+
+Source: Support Chat
+User: BizUser22
+Comment: "Is there a way to collaborate with my team? I'd love to invite them to view and comment on projects directly in the app. Right now I have to export and email everything."
+
+Source: Twitter Mention
+User: @DesignerDeb
+Comment: "Your app would be perfect if it had version history! I accidentally deleted a huge part of my project and there was no way to undo it. So frustrating."

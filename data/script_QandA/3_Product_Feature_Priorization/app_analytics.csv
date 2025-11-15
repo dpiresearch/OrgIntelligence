@@ -1,0 +1,6 @@
+feature_name,monthly_active_users,avg_time_spent_sec,error_rate_percent
+Dashboard,12500,320,0.5
+Editor,11800,950,1.2
+Export Module,9500,180,8.5
+Settings,6200,60,0.2
+Sharing (Email),2500,25,2.1

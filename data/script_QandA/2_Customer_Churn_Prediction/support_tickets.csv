@@ -1,0 +1,7 @@
+ticket_id,customer_id,status,priority,created_date
+TICK01,CUST002,Open,High,2024-09-15
+TICK02,CUST004,Open,High,2024-10-05
+TICK03,CUST006,Closed,Low,2024-08-20
+TICK04,CUST001,Closed,Low,2024-09-30
+TICK05,CUST006,Open,Critical,2024-10-18
+TICK06,CUST002,Open,Medium,2024-10-12

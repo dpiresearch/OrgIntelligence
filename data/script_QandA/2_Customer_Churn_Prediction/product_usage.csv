@@ -1,0 +1,7 @@
+customer_id,logins_past_30_days,key_features_used,avg_session_duration_min
+CUST001,25,5,45
+CUST002,8,2,15
+CUST003,35,6,65
+CUST004,5,1,10
+CUST005,12,3,25
+CUST006,2,1,5

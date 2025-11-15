@@ -1,0 +1,9 @@
+Competitor: DesignHub
+- Strengths: Excellent team collaboration features, real-time commenting.
+- Weaknesses: Slower rendering engine than ours.
+- Recent Launch: Just released an "Advanced Export Suite" which is getting positive reviews.
+
+Competitor: CanvasPro
+- Strengths: Version history is a major selling point in their marketing.
+- Weaknesses: Clunky UI, less intuitive than our product.
+- User Complaints: Users frequently complain about lack of integrations.

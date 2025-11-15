@@ -1,0 +1,7 @@
+customer_id,company_name,plan,mrr,contract_start_date
+CUST001,Alpha Corp,Enterprise,2500,2022-01-15
+CUST002,Beta Industries,Pro,500,2023-05-20
+CUST003,Gamma Solutions,Enterprise,3000,2021-11-01
+CUST004,Delta Systems,Pro,500,2023-09-10
+CUST005,Epsilon Tech,Basic,100,2024-02-28
+CUST006,Zeta Dynamics,Enterprise,2200,2022-08-12
